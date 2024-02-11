@@ -1,5 +1,6 @@
 */node_modules
 my-app/dist
 *.local
+*.env
 
 */.vscode/*
